@@ -1,0 +1,1 @@
+/root/tmp/cpuminer-zcoin/cpuminer -a lyra2z -o stratum+tcp://zcoin.oxo.rs:5033 -u doktor83.zcoin -p xxx123456 -B > /dev/null
